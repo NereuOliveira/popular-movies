@@ -1,0 +1,32 @@
+
+body {
+    padding-top: 56px;
+    font-family: Helvetica, serif;
+}
+
+.navbar > .container > a {
+    color: #FFF;
+}
+
+.movie-detail{
+    color: #747474;
+}
+
+    .movie-detail > .header {
+        background-color: #009688;
+        color: #FFF;
+    }
+
+        .movie-detail > .header div {
+            padding: 10px 20px;
+        }
+
+            .movie-detail > .header h3 {
+                margin-bottom: 0;
+            }
+
+    .movie-detail p{
+        font-size: 12px;
+        text-align: justify;
+    }
+
